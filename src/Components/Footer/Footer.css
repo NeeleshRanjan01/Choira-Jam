@@ -1,0 +1,37 @@
+.footer{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+.Footer-rightSection>div{
+    width: 40px;
+    height: 40px;
+    border-radius: 10px;
+    margin-top: 15px;
+    margin-right: 10px;
+    display: flex;
+    background-color: white;
+    padding: 8px 8px 8px 8px; 
+    cursor: pointer;
+}
+
+.Footer-rightSection{
+    display: flex;
+}
+
+
+.End-Button{
+    margin-top: 15px;
+    width: 100px;
+    height: 60px;
+    border-radius: 10px;
+    border-color: rgb(155, 36, 36);
+    background-color: rgb(155, 36, 36);
+    color: white;
+    margin-right: 10px;
+    font-size: 18px;
+    cursor: pointer;
+}
+
